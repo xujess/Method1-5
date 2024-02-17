@@ -1,6 +1,6 @@
 streamlit
+statistics
 pandas
 numpy
 matplotlib
 random
-statistics
