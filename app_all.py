@@ -109,6 +109,7 @@ plt.xlim(lower, upper)
 
 # 在Streamlit中显示图表
 st.pyplot(plt)
+plt.close()  # 关闭当前图表释放内存
 
 
 
@@ -200,6 +201,7 @@ plt.xlim(lower, upper)
 
 # 在Streamlit中显示图表
 st.pyplot(plt)
+plt.close()  # 关闭当前图表释放内存
 
 
 ########################################
@@ -270,6 +272,7 @@ plt.xlim(lower, upper)
 
 # 在Streamlit中显示图表
 st.pyplot(plt)
+plt.close()  # 关闭当前图表释放内存
 
 
 ########################################
@@ -358,6 +361,7 @@ plt.xlim(lower, upper)
 
 # 在Streamlit中显示图表
 st.pyplot(plt)
+plt.close()  # 关闭当前图表释放内存
 
 
 ########################################
@@ -492,4 +496,5 @@ plt.xlim(lower, upper)
 
 # 在Streamlit中显示图表
 st.pyplot(plt)
+plt.close()  # 关闭当前图表释放内存
 
