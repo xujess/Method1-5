@@ -3,4 +3,3 @@ statistics
 pandas
 numpy
 matplotlib
-random
